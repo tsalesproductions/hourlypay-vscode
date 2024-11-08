@@ -2,6 +2,11 @@
   "name": "hourly-pay",
   "displayName": "HourlyPay - Show your hour/price",
   "description": "Displays your hourly rate and total earnings in the status bar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsalesproductions/hourlypay-vscode"
+  },
+  "publisher": "salescodedev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
