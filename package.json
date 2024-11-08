@@ -7,7 +7,7 @@
     "url": "https://github.com/tsalesproductions/hourlypay-vscode"
   },
   "publisher": "salescodedev",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -51,6 +51,7 @@
       }
     }
   },
+  "icon": "images/timer-is-money.png",
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",

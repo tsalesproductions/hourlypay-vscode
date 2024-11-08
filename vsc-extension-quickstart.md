@@ -1,7 +1,7 @@
 # HourlyPay - Show your hour/price
 
-![Preview](https://github.com/tsalesproductions/hourlypay-vscode/blob/master/timer.png)
-![Change your settings](https://github.com/tsalesproductions/hourlypay-vscode/blob/master/oneditor.png)
+![Preview](https://i.imgur.com/hDme74x.png)
+![Change your settings](https://i.imgur.com/zcRAbEk.png)
 
 This extension displays a stopwatch with the activity time and your hourly rate in the status bar.  
 Set your hourly rate.  
